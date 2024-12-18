@@ -22,6 +22,8 @@ This code shows how you can **download Sentinel 2 data** (10 meter resolution) f
 
 This code uses the **Pystac library** in Python. The advantage is that we can extract only the data we need. Moreover, we can avoid downloading the data (even the small part) on a hard disk as the computations happen in memory. 
 
+The animation can be found [here](herohalli_mndwi_2023.gif)
+
 ## [Backup codes](backup)
 
 - [Code to convert KML to Geojson](backup/convert_files.ipynb)
