@@ -16,11 +16,13 @@ A high level exploration of the lakes and streams in Bangalore. For the datajam,
 
 - Ullalu lake-2
 
+<img src="images/cropped_image_lakes.PNG"  width=50% height=50%>
+
 An interactive map with the lakes and streams can be found [HERE](https://ellenb.github.io/lakes-bang/lakes_streams.html)
 
 Screenshot (static):
 
-<img src="images/cropped_image_lakes.PNG"  width=50% height=50%>
+<img src="images/folium_map.PNG"  width=50% height=50%>
 
 [01_lake_example_bang_west.ipynb](01_lake_example_bang_west.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Ndo2P9i1Uxp6jhfoIibQ0MxqEgNZ2Yl?usp=sharing)
 
