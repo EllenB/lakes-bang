@@ -2,8 +2,6 @@
 
 Some codes in follow up for the lakes datajam in Bangalore.
 
-**Work in progress.**
-
 This work is in collaboration with the other team members of Bangalore West (add names).
 
 [00_west_lakes_explore.ipynb](00_west_lakes_explore.ipynb) - IN PROGRESS - To add Google Colab link
